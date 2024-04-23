@@ -1,0 +1,25 @@
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 90px;
+  background-color: #d2dee6;
+  padding: 0 20px; /* Adjust padding as needed */
+}
+
+.logo {
+  width: 70px;
+  height: 70px;
+}
+
+.right-content {
+  display: flex;
+  align-items: center;
+}
+
+.user-name {
+  font-size: 17px;
+  color: rgb(29, 24, 24);
+  margin-right: 8px;
+}
+
